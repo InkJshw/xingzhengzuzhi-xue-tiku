@@ -1,0 +1,338 @@
+{
+  "singleChoice": [
+    {
+      "id": "s1",
+      "type": "single",
+      "question": "公共组织行为学的核心研究层次不包括",
+      "options": ["个体层次", "群体层次", "组织层次", "社会层次"],
+      "answer": 3
+    },
+    {
+      "id": "s2",
+      "type": "single",
+      "question": "人脑对直接作用于感官的客观事物整体属性的反映是",
+      "options": ["感觉", "知觉", "思维", "想象"],
+      "answer": 1
+    },
+    {
+      "id": "s3",
+      "type": "single",
+      "question": "个体心理特性中，先天形成、无好坏之分的是",
+      "options": ["性格", "气质", "能力", "态度"],
+      "answer": 1
+    },
+    {
+      "id": "s4",
+      "type": "single",
+      "question": "多血质气质类型的典型特征是",
+      "options": ["直率冲动", "活泼善交际、情绪易变", "沉稳忍耐、反应慢", "敏感多疑、优柔寡断"],
+      "answer": 1
+    },
+    {
+      "id": "s5",
+      "type": "single",
+      "question": "大五人格模型中，代表自律、负责、有条理的维度是",
+      "options": ["外向性", "宜人性", "责任心", "开放性"],
+      "answer": 2
+    },
+    {
+      "id": "s6",
+      "type": "single",
+      "question": "态度的三大核心成分不包括",
+      "options": ["认知成分", "情感成分", "意向成分", "意志成分"],
+      "answer": 3
+    },
+    {
+      "id": "s7",
+      "type": "single",
+      "question": "费斯廷格提出的经典态度理论是",
+      "options": ["平衡理论", "认知失调理论", "归因理论", "强化理论"],
+      "answer": 1
+    },
+    {
+      "id": "s8",
+      "type": "single",
+      "question": "员工因离开组织成本过高而选择留任，属于哪种组织承诺",
+      "options": ["情感承诺", "持续承诺", "规范承诺", "职业承诺"],
+      "answer": 1
+    },
+    {
+      "id": "s9",
+      "type": "single",
+      "question": "马斯洛需要层次理论中，最高层次的需要是",
+      "options": ["安全需要", "尊重需要", "自我实现需要", "归属需要"],
+      "answer": 2
+    },
+    {
+      "id": "s10",
+      "type": "single",
+      "question": "赫茨伯格双因素理论中，工资、工作环境属于",
+      "options": ["激励因素", "保健因素", "成长因素", "成就因素"],
+      "answer": 1
+    },
+    {
+      "id": "s11",
+      "type": "single",
+      "question": "期望理论的核心公式是",
+      "options": ["激励力=效价×期望值", "绩效=能力×努力", "公平感=投入/报酬", "动机=需要+诱因"],
+      "answer": 0
+    },
+    {
+      "id": "s12",
+      "type": "single",
+      "question": "亚当斯公平理论重点研究的是",
+      "options": ["目标激励", "报酬的相对公平性", "行为强化", "挫折应对"],
+      "answer": 1
+    },
+    {
+      "id": "s13",
+      "type": "single",
+      "question": "斯金纳强化理论中，撤销不良行为的负面刺激属于",
+      "options": ["正强化", "负强化", "惩罚", "自然消退"],
+      "answer": 1
+    },
+    {
+      "id": "s14",
+      "type": "single",
+      "question": "个体同时面临两个都想回避的目标，属于哪种目标冲突",
+      "options": ["接近—接近型", "回避—回避型", "接近—回避型", "多重趋避型"],
+      "answer": 1
+    },
+    {
+      "id": "s15",
+      "type": "single",
+      "question": "公共组织领导区别于一般管理的核心是",
+      "options": ["正确地做事", "做正确的事", "执行制度", "管控流程"],
+      "answer": 1
+    },
+    {
+      "id": "s16",
+      "type": "single",
+      "question": "公共组织领导者「职位、职权、职责」三者的关系是",
+      "options": ["相互制衡", "相互独立", "主次分明", "毫无关联"],
+      "answer": 0
+    },
+    {
+      "id": "s17",
+      "type": "single",
+      "question": "现代领导决策的主流趋势是",
+      "options": ["个体经验决策", "集体科学决策", "直觉决策", "单一目标决策"],
+      "answer": 1
+    },
+    {
+      "id": "s18",
+      "type": "single",
+      "question": "正式沟通网络中，轮式网络最突出的特点是",
+      "options": ["组织化慢", "中心人物主导、效率高", "全员互通", "信息易失真"],
+      "answer": 1
+    },
+    {
+      "id": "s19",
+      "type": "single",
+      "question": "有效人际沟通的障碍中，信息经多环节传递发生篡改属于",
+      "options": ["发送者障碍", "传递过程障碍", "接收者障碍", "背景障碍"],
+      "answer": 1
+    },
+    {
+      "id": "s20",
+      "type": "single",
+      "question": "霍兰德职业人格理论中，擅长人际交往、乐于帮助他人的是",
+      "options": ["现实型", "社会型", "研究型", "常规型"],
+      "answer": 1
+    }
+  ],
+  "multipleChoice": [
+    {
+      "id": "m1",
+      "type": "multiple",
+      "question": "社会知觉的类型主要有",
+      "options": ["自我知觉", "他人知觉", "人际知觉", "角色知觉"],
+      "answer": [0, 1, 2, 3]
+    },
+    {
+      "id": "m2",
+      "type": "multiple",
+      "question": "维纳归因理论的三个维度是",
+      "options": ["内部—外部", "整体—局部", "可控—不可控", "稳定—不稳定"],
+      "answer": [0, 2, 3]
+    },
+    {
+      "id": "m3",
+      "type": "multiple",
+      "question": "态度改变的常用方法有",
+      "options": ["劝说宣传法", "活动参与法", "角色扮演法", "规范改变法"],
+      "answer": [0, 1, 2, 3]
+    },
+    {
+      "id": "m4",
+      "type": "multiple",
+      "question": "组织承诺的三种类型是",
+      "options": ["职业承诺", "持续承诺", "规范承诺", "情感承诺"],
+      "answer": [1, 2, 3]
+    },
+    {
+      "id": "m5",
+      "type": "multiple",
+      "question": "内容型激励理论主要包括",
+      "options": ["需要层次论", "双因素理论", "ERG理论", "成就需要理论"],
+      "answer": [0, 1, 2, 3]
+    },
+    {
+      "id": "m6",
+      "type": "multiple",
+      "question": "过程型激励理论包含",
+      "options": ["期望理论", "公平理论", "目标设置理论", "强化理论"],
+      "answer": [0, 1, 2]
+    },
+    {
+      "id": "m7",
+      "type": "multiple",
+      "question": "群体间冲突的管理方法主要有",
+      "options": ["谈判", "调解", "仲裁", "构建规则程序"],
+      "answer": [0, 1, 2, 3]
+    },
+    {
+      "id": "m8",
+      "type": "multiple",
+      "question": "领导方式按照权力运用方式可划分为",
+      "options": ["独裁型", "放任型", "人事并重型", "民主型"],
+      "answer": [0, 1, 3]
+    },
+    {
+      "id": "m9",
+      "type": "multiple",
+      "question": "有效人际沟通的技巧分为哪三大模块",
+      "options": ["信息组织与发送", "信息领会与反馈", "沟通情境改善", "强制灌输信息"],
+      "answer": [0, 1, 2]
+    },
+    {
+      "id": "m10",
+      "type": "multiple",
+      "question": "影响个体心理特性形成与发展的因素有",
+      "options": ["遗传因素", "家庭与学校教育", "社会实践", "主观能动性"],
+      "answer": [0, 1, 2, 3]
+    }
+  ],
+  "trueFalse": [
+    {
+      "id": "t1",
+      "type": "trueFalse",
+      "question": "组织和群体的区别在于组织有严密制度、明确目标，群体结构松散。",
+      "answer": true
+    },
+    {
+      "id": "t2",
+      "type": "trueFalse",
+      "question": "知觉是感觉的简单相加，二者没有本质区别。",
+      "answer": false
+    },
+    {
+      "id": "t3",
+      "type": "trueFalse",
+      "question": "首因效应即第一印象，会长期影响人际交往与评价。",
+      "answer": true
+    },
+    {
+      "id": "t4",
+      "type": "trueFalse",
+      "question": "气质有优劣好坏之分，性格无好坏之分。",
+      "answer": false
+    },
+    {
+      "id": "t5",
+      "type": "trueFalse",
+      "question": "能力的个别差异体现在发展水平、结构、表现早晚三个方面。",
+      "answer": true
+    },
+    {
+      "id": "t6",
+      "type": "trueFalse",
+      "question": "态度的认知、情感、意向三个成分通常是协调一致的。",
+      "answer": true
+    },
+    {
+      "id": "t7",
+      "type": "trueFalse",
+      "question": "认知失调会让人产生心理紧张，个体倾向于主动消除失调状态。",
+      "answer": true
+    },
+    {
+      "id": "t8",
+      "type": "trueFalse",
+      "question": "工作满意度与工作绩效呈绝对的正相关关系。",
+      "answer": false
+    },
+    {
+      "id": "t9",
+      "type": "trueFalse",
+      "question": "保健因素只能消除不满，无法起到激励员工的作用。",
+      "answer": true
+    },
+    {
+      "id": "t10",
+      "type": "trueFalse",
+      "question": "挫折只会引发个体消极、破坏性行为。",
+      "answer": false
+    },
+    {
+      "id": "t11",
+      "type": "trueFalse",
+      "question": "公平理论中，员工更关注报酬的相对值而非绝对值。",
+      "answer": true
+    },
+    {
+      "id": "t12",
+      "type": "trueFalse",
+      "question": "良性冲突可以激发组织活力、推动组织创新。",
+      "answer": true
+    },
+    {
+      "id": "t13",
+      "type": "trueFalse",
+      "question": "个体内部的接近—回避型冲突，指同一目标兼具吸引力与排斥力。",
+      "answer": true
+    },
+    {
+      "id": "t14",
+      "type": "trueFalse",
+      "question": "领导侧重执行与管控，管理侧重战略与方向。",
+      "answer": false
+    },
+    {
+      "id": "t15",
+      "type": "trueFalse",
+      "question": "公共组织领导的服务性是我国公共组织领导的独有特征。",
+      "answer": true
+    },
+    {
+      "id": "t16",
+      "type": "trueFalse",
+      "question": "领导决策系统由中枢系统、咨询系统、信息系统、监控系统构成。",
+      "answer": true
+    },
+    {
+      "id": "t17",
+      "type": "trueFalse",
+      "question": "链式沟通网络信息传递速度快，不易失真。",
+      "answer": false
+    },
+    {
+      "id": "t18",
+      "type": "trueFalse",
+      "question": "非正式沟通全部是负面流言，应当彻底禁止。",
+      "answer": false
+    },
+    {
+      "id": "t19",
+      "type": "trueFalse",
+      "question": "相似性原则是增进人际吸引的重要技巧之一。",
+      "answer": true
+    },
+    {
+      "id": "t20",
+      "type": "trueFalse",
+      "question": "民主型教师管理风格下，学生主动性更强、负面情绪更少。",
+      "answer": true
+    }
+  ]
+}
